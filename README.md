@@ -1,0 +1,2 @@
+# ethereum
+trying new project
